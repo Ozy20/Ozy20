@@ -41,17 +41,6 @@ https://github.com/athul/waka-readme
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description |
-|---------|-------------|
-| **[node.js](https://github.com/Ozy20/node.js)** | Backend tutorials using Node.js, Express, and MongoDB |
-| **[numerical-methods](https://github.com/Ozy20/numerical-methods)** | MATLAB implementations of numerical methods |
-| **[obj-tracker](https://github.com/Ozy20/obj-tracker)** | Object tracking program using Python and OpenCV |
-| **[QuizzMaker](https://github.com/Ozy20/QuizzMaker)** | Full-stack web app for creating quizzes |
-| **[java_problem_Solving](https://github.com/Ozy20/java_problem_Solving)** | Java solutions from Liang’s textbook |
-
----
-
 ### 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-khaled-3243681b1)
 
