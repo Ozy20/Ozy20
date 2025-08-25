@@ -7,7 +7,6 @@
 
 ### 📊 GitHub Activity
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozy20&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ozy20&theme=radical)
 
 <!-- If you want coding hours, set up WakaTime:
 https://github.com/athul/waka-readme
